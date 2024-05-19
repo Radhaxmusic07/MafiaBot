@@ -59,11 +59,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": "12854172"
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
-      "value": "",
+      "value": "6930613470",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -73,11 +73,11 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": "4107f97d6d579c41975d6f9661abd596"
     },
     "MAFIABOT_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
-      "value": "-1001174481876"
+      "value": "-1002055037072"
     },
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
